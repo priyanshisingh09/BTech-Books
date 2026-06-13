@@ -1,0 +1,6 @@
+{
+  "name": "BTech Books",
+  "description": "A comprehensive education guide, scholarship eligibility search engine and professional resume builder custom-tailored for B.Tech engineering students.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
